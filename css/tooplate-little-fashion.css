@@ -512,7 +512,7 @@ strong {
 }
 
 .slick-slideshow {
-  margin-top: 86px;
+  margin-top: 100px;
 }
 
 .slick-title {
@@ -565,7 +565,7 @@ strong {
 
 @media (min-width: 576px) {
   .slick-slideshow .slick-dots {
-    max-width: 540px;
+    width: 800px;
   }
   
 }
