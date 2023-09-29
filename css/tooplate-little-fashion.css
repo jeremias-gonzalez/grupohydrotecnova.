@@ -942,6 +942,13 @@ button:focus:not(:focus-visible) {
   font-weight: var(--font-weight-bold);
   padding: 3px 10px;
 }
+.sin-stock{
+  background:rgb(248, 88, 88);
+  color: white;
+  font-size: var(--custom-link-font-size);
+  font-weight: var(--font-weight-bold);
+  padding: 3px 10px;
+}
 
 .product-p {
   font-size: var(--product-link-font-size);
@@ -1023,7 +1030,7 @@ small{
 .wsp{
   position: fixed;
   bottom: 10%;
-  left: 90%;
+  left: 85%;
   z-index: 500;
   
                  
